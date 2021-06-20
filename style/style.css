@@ -1,0 +1,30 @@
+#footer {
+    padding: 4em 0;
+}
+
+header.major {
+    padding: 0 0 1em 0;
+}
+
+#cta {
+    background-color: #003993;
+}
+
+#cta input[type=submit] {
+    color: #152552;
+    border: 1px solid;
+}
+
+#cta input[type=submit]:hover {
+    background: #002c74;
+    color: white;
+    border: 1px solid white;
+}
+
+div.box p img {
+    width: 100%;
+}
+
+img[alt$="Wherwell"] { 
+    
+}
